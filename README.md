@@ -35,8 +35,8 @@ Gyroscope-controlled Android game with dynamic obstacles and collision systems.
 ## 📫 Connect With Me
 
 - 📧 Email: sharan18x@gmail.com  
-- 📸 Instagram: https://instagram.com/sharans7_  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-USERNAME  
+ 
+- 💼 LinkedIn: https://www.linkedin.com/in/sharan-s-305458308?utm_source=share_via&utm_content=profile&utm_medium=member_android 
 
 ---
 
