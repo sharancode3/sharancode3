@@ -1,171 +1,103 @@
-<div align="center">
+# Sharan S
 
-  <h1>Sharan S</h1>
-  <p><strong>Systems Architecture | Applied AI | Distributed & Edge Platforms</strong></p>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Systems+Architecture+%26+Applied+AI+Engineering;SIH+2026+Innovator+%7C+Geospatial+Telemetry;Edge+Platform+Orchestration+%26+Kernel+Isolation;High-Performance+Distributed+Systems;Computer+Science+%40+BMSCE%2C+Bangalore" alt="Typing SVG" />
-  </a>
-
-  <br><br>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/sharan-s7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://www.instagram.com/sharns7_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="mailto:sharan18x@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/sharancode3?tab=repositories"><img src="https://img.shields.io/badge/Repositories-15+-10B981?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
-    <img src="https://img.shields.io/badge/Location-Bangalore%2C_India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  </p>
-
-</div>
+Systems & Applied AI Engineer | Computer Science Undergraduate at BMSCE, Bengaluru (Batch 2024-2028)
 
 ---
 
-### Overview
+## Summary
 
-Computer Science undergraduate at BMSCE, Bangalore. Specializing in **autonomous multi-agent orchestration, verifiable inference pipelines, resource-constrained edge computing, and high-performance mobile and web architectures**.
-
-My engineering focus centers on first-principles development: designing deterministic state machines, implementing verification loops to eliminate LLM hallucinations, building edge platforms that operate within strict hardware constraints, and architecting end-to-end data pipelines for national-scale problem statements.
+Computer Science undergraduate at BMS College of Engineering with an engineering focus on autonomous multi-agent orchestration, local LLM inference pipelines, resource-constrained edge platforms, and cross-platform mobile systems. Experience spans engineering mobile features at InternLoom, building full-stack products at Homi, and developing hackathon-winning solutions across fintech, geospatial intelligence, and developer tooling. All systems prioritize deterministic state machines, kernel-level isolation, and offline/on-device inference over superficial API wrappers.
 
 ---
 
-### Core Engineering & AI Architecture
+## Technical Stack
 
-- **Autonomous Verification Loops:** Engineered multi-brain agent workflows in [Finora](https://github.com/sharancode3/Finora) utilizing tool-calling schemas with local models (Ollama) and cloud APIs (Gemini). Implemented a dedicated Verifier agent pattern that inspects tool calls and ledger modifications to mathematically validate financial outputs prior to state changes.
-- **Strict Schema-Constrained Inference:** Built evaluation engines in [Skill-Lens AI](https://github.com/sharancode3/Skill-lens-AI) using JSON Schema enforcement for turn-by-turn skill taxonomy parsing and objective candidate scoring without hallucination.
-- **Multi-Spectral Spatial Telemetry:** Designed end-to-end ingestion pipelines in [ThermoTrace AI](https://github.com/sharancode3/ThermoTrace-AI) for SIH 2026 (NTRO & CPCB), processing thermal satellite bands, calculating spatial anomaly clusters, and generating synthesized compliance reports.
-- **Resource-Aware Edge Platforms:** Built [Homelab BaaS](https://github.com/sharancode3/Homelab), a self-hosted developer platform running multi-tenant isolated services, container orchestration, and relational database provisioning on single-node 4 GB RAM edge hardware.
-- **Low-Overhead Native Telemetry:** Architected [GiGly](https://github.com/sharancode3/GiGly) with Flutter and a custom native C++/Kotlin bridge for continuous background telemetry without device battery degradation.
-
----
-
-### Featured Systems
-
-#### [ThermoTrace AI](https://github.com/sharancode3/ThermoTrace-AI)
-*Sovereign Enterprise Satellite Thermal Intelligence & Industrial Flaring Anomaly Monitoring Platform (SIH 2026 / NTRO & CPCB)*
-- Processes multispectral satellite telemetry to detect industrial thermal flaring hotspots and sub-surface heat signatures.
-- Implements deterministic event streams for spatial clustering, automated compliance reports, and LLM-synthesized regulatory summaries.
-- **Stack:** Python (FastAPI), TypeScript, Geospatial AI, GDAL, Vector Maps, Docker Compose v2.
+- **Languages:** Python, TypeScript, JavaScript, Dart, Kotlin, C, C++, SQL (PL/pgSQL), Bash
+- **Mobile Development:** Flutter, Riverpod, Isar, Android SDK, Jetpack Compose, Native C++/Kotlin Platform Channels
+- **Applied AI & Inference:** Ollama (Gemma 3, Qwen 2.5), Structured Output (JSON Schema Mode), Tool Calling / Function Calling, Multi-Agent Verifier Loops, Monte Carlo Simulations, Geospatial Telemetry (GDAL)
+- **Backend & Systems:** FastAPI, Node.js, Express.js, Prisma ORM, PostgreSQL, Cloud Firestore, Supabase, MinIO, Docker Engine API, Linux cgroups & Namespaces
+- **DevOps & Infrastructure:** Docker, Docker Compose, Linux Server Administration, Git, GitHub Actions, Vercel, Netlify
 
 ---
 
-#### [Finora](https://github.com/sharancode3/Finora)
-*Autonomous AI Finance Controller & Continuous 3-Way Reconciliation Engine*
-- Distributed specialist agents performing continuous 3-way reconciliation across bank statements, ERP ledgers, and GSTR-2B datasets.
-- 1,000-trial Monte Carlo cash-flow simulations with rule-based confidence scoring, Ind AS continuous close, and verifiable LLM auditing.
-- **Stack:** TypeScript, Python, FastAPI, Next.js, Ollama, Gemini API, Cloud Firestore.
+## Featured Systems
+
+### [Finora](https://github.com/sharancode3/Finora)
+**Problem Statement:** Merchant-facing financial platforms lack automated, continuous reconciliation between bank statements, purchase ledgers, and government tax returns, resulting in undetected ledger drift.  
+**Tech Stack:** TypeScript, Next.js, Python, FastAPI, Ollama (Gemma 3 4B), Cloud Firestore  
+**Architecture & Contribution:** Engineered a deterministic 3-way matching engine coupled with a local LLM controller via Ollama. Implemented a dedicated dual-pass Verifier agent loop that inspects tool calls and ledger mutations to mathematically validate financial outputs and eliminate hallucinations prior to state changes. Integrated 1,000-trial Monte Carlo cash-flow forecasting.  
+**Outcome:** Built as a targeted submission for the Razorpay AI Buildathon (AI Finance Controller Track).
 
 ---
 
-#### [Hireflow](https://github.com/sharancode3/Hireflow)
-*Production Enterprise Hiring Platform, Role-Based ATS & Resume Generator* | **[Live Demo](https://hireflow-frontend-wvf2.vercel.app/login)**
-- Role-based hiring platform with job seeker, recruiter, and admin access control, approval pipelines, and ATS-focused resume parsing.
-- 1.2MB+ TypeScript codebase backed by PostgreSQL with PLpgSQL stored procedures, Prisma ORM, and responsive UI state machines.
-- **Stack:** TypeScript, Next.js, PostgreSQL, PLpgSQL, Prisma ORM, Express.js, TailwindCSS.
+### [JobSwipe](https://github.com/sharancode3/JobSwipe)
+**Problem Statement:** Conventional internship boards create high friction with lengthy forms and poor mobile discovery UX for students.  
+**Tech Stack:** Flutter, Dart, Riverpod, Supabase, Android SDK  
+**Architecture & Contribution:** Architected a swipe-card discovery interface with optimistic UI updates, Riverpod state isolation, candidate profile caching, and a direct-apply pipeline integrated with Supabase authentication and relational schema.  
+**Outcome:** Awarded 1st Place at the BMSCE x InternLoom Hackathon 2026 (App Development Track); released signed production Android APKs (v2.0.1).
 
 ---
 
-#### [Homelab BaaS](https://github.com/sharancode3/Homelab)
-*Self-Hosted Multi-Tenant Developer Platform & BaaS for Edge Nodes*
-- Engineered from first principles for single-node 4 GB RAM hardware with kernel-level tenant isolation via Linux cgroups and namespaces.
-- Automated provisioning of relational DB instances, deterministic container lifecycle engine, and S3-compatible local storage.
-- **Stack:** Python, TypeScript, Docker Engine API, Linux Systems, Shell.
+### [ThermoTrace AI](https://github.com/sharancode3/ThermoTrace-AI)
+**Problem Statement:** Monitoring industrial flaring compliance and sub-surface thermal anomalies requires continuous, sovereign geospatial intelligence from multispectral satellite telemetry.  
+**Tech Stack:** Python, FastAPI, TypeScript, Geospatial AI, GDAL, Vector Maps, Docker Compose v2  
+**Architecture & Contribution:** Designed an end-to-end ingestion pipeline processing thermal infrared satellite bands, computing spatial anomaly clusters, and generating deterministic compliance reports with LLM-synthesized executive summaries.  
+**Outcome:** Engineered as a comprehensive platform architecture for Smart India Hackathon 2026 (Problem Statement 162 for NTRO & CPCB).
 
 ---
 
-#### [GiGly](https://github.com/sharancode3/GiGly)
-*Pay Fairness & Real-Time Safety Companion for Gig-Economy Workers*
-- Real-time algorithmic pay fairness verification, dynamic risk assessment, and proactive safety beacons.
-- Low-overhead background location telemetry with a native C++ and Kotlin bridge to minimize battery consumption during active shifts.
-- **Stack:** Flutter (Dart), Python, Firebase, Kotlin, C++ Native Layer.
+### [Homelab BaaS](https://github.com/sharancode3/Homelab)
+**Problem Statement:** Cloud backend-as-a-service offerings are cost-prohibitive and memory-heavy for deployment on low-spec edge nodes.  
+**Tech Stack:** Python, FastAPI, TypeScript, Docker Engine API, PostgreSQL, MinIO, Linux cgroups & Namespaces, Bash  
+**Architecture & Contribution:** Designed a self-hosted multi-tenant developer platform from first principles to operate within a single-node 4 GB RAM edge environment (repurposed ThinkPad on Ubuntu Server). Implemented automated relational database provisioning, deterministic container lifecycle engine, S3-compatible local storage, and kernel-level tenant isolation.  
+**Outcome:** Fully operational personal edge BaaS hosting self-contained isolated microservices and persistent databases.
 
 ---
 
-#### [Skill-Lens AI](https://github.com/sharancode3/Skill-lens-AI)
-*Automated Technical Skill Graph Extraction & Assessment Intelligence*
-- Gemini JSON-mode inference pipeline transforming raw engineering artifacts into multi-dimensional skill graphs.
-- Objective candidate competency matrices eliminating qualitative evaluation bias.
-- **Stack:** JavaScript, Node.js, Express, Google Gemini API, Python.
+### [GiGly](https://github.com/sharancode3/GiGly)
+**Problem Statement:** Indian gig-economy workers face dynamic pay opacity, route safety vulnerabilities, and aggressive battery drain from continuous mobile location tracking.  
+**Tech Stack:** Flutter, Dart, Python, FastAPI, Firebase, Ollama (Gemma 3 4B), Kotlin, C++ Native Bridge  
+**Architecture & Contribution:** Built a cross-platform client with real-time algorithmic pay fairness auditing and proactive emergency safety beacons. Developed a low-overhead native C++/Kotlin bridge for continuous background GPS telemetry with zero-drain battery performance during active delivery shifts.  
+**Outcome:** Developed for the Synaptrix Hackathon at BMSCE, covering all core and bonus platform requirements.
 
 ---
 
-#### [Campus Insights](https://github.com/sharancode3/Campus-Insights)
-*High-Performance University Portal with WebGL 3D Shaders & Analytics*
-- Three.js WebGL shader animations with a custom dark-theme design system.
-- Comprehensive academic and placement telemetry dashboards.
-- **Stack:** Next.js, TypeScript, Three.js, TailwindCSS, Python.
+### [Hireflow](https://github.com/sharancode3/Hireflow)
+**Problem Statement:** Recruitment workflows suffer from fragmented ATS pipelines, lack of structured recruiter approvals, and inconsistent candidate resume formatting.  
+**Tech Stack:** TypeScript, Next.js, PostgreSQL, PL/pgSQL, Prisma ORM, Express.js, Tailwind CSS  
+**Architecture & Contribution:** Engineered a multi-role hiring platform (Job Seeker, Recruiter, Admin) with candidate approval state machines, automated ATS resume generation, and transactional database routines using PL/pgSQL stored procedures.  
+**Outcome:** Shipped a production-grade 1.2MB+ TypeScript platform with a public deployment at [hireflow-frontend-wvf2.vercel.app](https://hireflow-frontend-wvf2.vercel.app/login).
 
 ---
 
-#### [Hydra Leaf & Interactive Engines](https://github.com/sharancode3/Hydra-leaf-Source-code)
-*Low-Level Sensor Fusion Mobile Game Engine & Modular 2D Physics Systems*
-- Real-time gyroscope-controlled Android physics engine with custom collision detection and hardware sensor integration.
-- Pure canvas-rendered physics loops, mathematical collision mechanics, and state management platforms ([CHEAT-LABZ](https://github.com/sharancode3/CHEAT-LABZ) & [Hyper-Pong](https://github.com/sharancode3/Hyper-Pong)).
-- **Stack:** Java, Kotlin, C, JavaScript, Android Native Sensor API.
+## Project Catalog
 
----
-
-### Project Directory
-
-| Project | Focus / Domain | Stack | Repository |
+| Project | Domain | Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **ThermoTrace AI** | Satellite Thermal & Geospatial Intelligence (SIH 2026) | Python, FastAPI, TypeScript, GDAL, Docker | [GitHub](https://github.com/sharancode3/ThermoTrace-AI) |
-| **Finora** | Autonomous AI Finance Controller & 3-Way Reconciliation | TypeScript, Python, Next.js, Ollama, Firestore | [GitHub](https://github.com/sharancode3/Finora) |
-| **Hireflow** | Enterprise ATS, Role-Based Workflows & Resume Generator | TypeScript, Next.js, PostgreSQL, Prisma, PLpgSQL | [GitHub](https://github.com/sharancode3/Hireflow) |
-| **Homelab BaaS** | Single-Node 4GB Edge Developer Platform & Orchestrator | Python, TypeScript, Docker Engine API, Linux | [GitHub](https://github.com/sharancode3/Homelab) |
-| **GiGly** | Pay Fairness & Safety Companion with Native Telemetry | Flutter, Dart, Python, Firebase, Kotlin, C++ | [GitHub](https://github.com/sharancode3/GiGly) |
-| **Skill-Lens AI** | Deterministic Technical Skill Graph Extraction | JavaScript, Node.js, Google Gemini API, Python | [GitHub](https://github.com/sharancode3/Skill-lens-AI) |
-| **Campus Insights** | WebGL Three.js Shader University Portal & Analytics | TypeScript, Next.js, Three.js, TailwindCSS | [GitHub](https://github.com/sharancode3/Campus-Insights) |
-| **Hydra Leaf (Source)** | Hardware Sensor Fusion Android Physics Game Engine | Java, Kotlin, C, Smali, Native Sensor API | [GitHub](https://github.com/sharancode3/Hydra-leaf-Source-code) |
-| **Hydra Leaf (APK)** | Packaged Release Build & Android Installation Binary | Android APK, Gradle | [GitHub](https://github.com/sharancode3/Hydra-leaf-apk) |
-| **JobSwipe** | Swipe-Based Matchmaking Mobile Application | Flutter, Dart, Python, Android | [GitHub](https://github.com/sharancode3/JobSwipe) |
-| **CHEAT-LABZ** | Modular Canvas 2D Physics & Browser Game Suite | JavaScript, HTML5 Canvas, CSS3 | [GitHub](https://github.com/sharancode3/CHEAT-LABZ) |
-| **Hyper-Pong** | Canvas Collision Loop & Dynamic Game Physics Engine | JavaScript, HTML5, CSS3 | [GitHub](https://github.com/sharancode3/Hyper-Pong) |
-| **SmartTrip AI** | Intelligent Route Planning & Experience Prototype | HTML5, JavaScript, CSS3 | [GitHub](https://github.com/sharancode3/SmartTrip-AI-Basic-design-Prototype) |
+| **Finora** | Autonomous AI Finance Controller & 3-Way Reconciliation | TypeScript, Python, Next.js, Ollama, Firestore | [github.com/sharancode3/Finora](https://github.com/sharancode3/Finora) |
+| **JobSwipe** | Swipe-Based Mobile Internship Discovery Application | Flutter, Dart, Riverpod, Supabase, Android | [github.com/sharancode3/JobSwipe](https://github.com/sharancode3/JobSwipe) |
+| **ThermoTrace AI** | Satellite Thermal & Geospatial Intelligence (SIH 2026) | Python, FastAPI, TypeScript, GDAL, Docker | [github.com/sharancode3/ThermoTrace-AI](https://github.com/sharancode3/ThermoTrace-AI) |
+| **Homelab BaaS** | Single-Node 4GB Edge Developer Platform & Orchestrator | Python, FastAPI, Docker Engine API, MinIO, Linux | [github.com/sharancode3/Homelab](https://github.com/sharancode3/Homelab) |
+| **GiGly** | Pay Fairness & Safety Companion with Native Telemetry | Flutter, Dart, Python, Firebase, Kotlin, C++ | [github.com/sharancode3/GiGly](https://github.com/sharancode3/GiGly) |
+| **Hireflow** | Enterprise ATS, Role-Based Workflows & Resume Generator | TypeScript, Next.js, PostgreSQL, Prisma, PL/pgSQL | [github.com/sharancode3/Hireflow](https://github.com/sharancode3/Hireflow) |
+| **Skill-Lens AI** | Adaptive Multi-Turn AI Technical Interview Platform | JavaScript, Node.js, Google Gemini API, Python | [github.com/sharancode3/Skill-lens-AI](https://github.com/sharancode3/Skill-lens-AI) |
+| **Hydra Leaf** | Hardware Sensor Fusion Android Physics Game Engine | Java, Kotlin, C, Android Native Sensor API | [github.com/sharancode3/Hydra-leaf-Source-code](https://github.com/sharancode3/Hydra-leaf-Source-code) |
+| **CHEAT-LABZ** | Modular Canvas 2D Physics & Browser Game Platform | JavaScript, HTML5 Canvas, Socket.IO, CSS3 | [github.com/sharancode3/CHEAT-LABZ](https://github.com/sharancode3/CHEAT-LABZ) |
+| **Hyper-Pong** | Canvas Collision Loop & Dynamic Game Physics Engine | JavaScript, HTML5 Canvas, CSS3 | [github.com/sharancode3/Hyper-Pong](https://github.com/sharancode3/Hyper-Pong) |
+| **SmartTrip AI** | Conversational Travel Planning & Route Prototype | HTML5, JavaScript, CSS3 | [github.com/sharancode3/SmartTrip-AI-Basic-design-Prototype](https://github.com/sharancode3/SmartTrip-AI-Basic-design-Prototype) |
 
 ---
 
-### Technical Arsenal
+## Currently Building
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, TypeScript, JavaScript, Dart, Kotlin, C/C++, Java, SQL / PLpgSQL, Shell / Bash |
-| **Applied AI & Agentic Systems** | LLM Tool Calling / Function Calling, Multi-Agent Orchestration, Verifier Architecture, Google Gemini API (JSON Schema Mode), Ollama, Monte Carlo Simulations, Geospatial AI (GDAL) |
-| **Backend & Distributed Systems** | FastAPI, Node.js, Express.js, Prisma ORM, RESTful APIs, Microservices, Docker Engine API, Deterministic Orchestration |
-| **Frontend & Mobile** | Next.js (App Router), React, Flutter, React Native, Three.js (WebGL), Tailwind CSS, State Machines, Responsive UI/UX |
-| **Databases & Cloud Storage** | PostgreSQL (PLpgSQL), Cloud Firestore, MySQL, MongoDB, Supabase, Firebase, S3 Storage Protocols |
-| **DevOps & Infrastructure** | Docker & Docker Compose, Linux Internals (cgroups, namespaces), GitHub Actions (CI/CD), Netlify, Vercel, Git |
+Developing scalable offline-first architectures, edge platform runtimes, and verifiable multi-agent orchestration frameworks for constrained deployment environments.
 
 ---
 
-### Live Telemetry
+## Contact
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sharancode3&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=60A5FA&currStreakLabel=38BDF8" width="85%" alt="GitHub Streak Stats" />
-</div>
-
----
-
-### Connect
-
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/sharan-s7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/sharns7_/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:sharan18x@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/sharancode3">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-</div>
-
-
+- **GitHub:** [github.com/sharancode3](https://github.com/sharancode3)
+- **LinkedIn:** [linkedin.com/in/sharan-s7](https://www.linkedin.com/in/sharan-s7/)
+- **Instagram:** [instagram.com/sharns7_](https://www.instagram.com/sharns7_/)
+- **Email:** [sharan18x@gmail.com](mailto:sharan18x@gmail.com)
+- **Location:** Bengaluru, India
