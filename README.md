@@ -141,20 +141,7 @@ My engineering focus centers on first-principles development: designing determin
 ### Live Telemetry
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=sharancode3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=60A5FA&text_color=E2E8F0" width="100%" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharancode3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" width="100%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharancode3&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=60A5FA&currStreakLabel=38BDF8" width="85%" alt="GitHub Streak Stats" />
-  </p>
+  <img src="https://streak-stats.demolab.com/?user=sharancode3&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=60A5FA&currStreakLabel=38BDF8" width="85%" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -163,10 +150,22 @@ My engineering focus centers on first-principles development: designing determin
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/sharan-s7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/sharns7_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:sharan18x@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/sharancode3"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/sharan-s7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/sharns7_/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sharan18x@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sharancode3">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
 </div>
+
 
