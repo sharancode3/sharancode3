@@ -3,7 +3,7 @@
 **Systems & Applied AI Engineer**  
 Computer Science Undergraduate, BMS College of Engineering, Bengaluru (Batch 2024–2028)
 
-[LinkedIn](https://www.linkedin.com/in/sharan-s7/) | [GitHub](https://github.com/sharancode3) | [Instagram](https://www.instagram.com/sharns7_/) | [Email](mailto:sharan18x@gmail.com) | Bengaluru, India
+[LinkedIn](https://www.linkedin.com/in/sharan-s7/) | [GitHub](https://github.com/sharancode3) | [Instagram](https://www.instagram.com/sharans7_/) | [Email](mailto:sharan18x@gmail.com) | Bengaluru, India
 
 ---
 
@@ -52,7 +52,7 @@ All projects emphasize verifiable system execution, physical resource constraint
 
 ### [Hireflow](https://github.com/sharancode3/Hireflow)
 **Production Enterprise Hiring Platform, Role-Based ATS & Resume Engine**  
-*Production Deployment: [hireflow-frontend-wvf2.vercel.app](https://hireflow-frontend-wvf2.vercel.app/login)*
+*Full-Stack Application: [github.com/sharancode3/Hireflow](https://github.com/sharancode3/Hireflow)*
 
 - **Transactional Workflow Automation:** Provides multi-role portal pipelines (Job Seeker, Recruiter, Admin) with state-machine-driven candidate evaluation stages.
 - **Database Architecture:** Backed by PostgreSQL with custom PL/pgSQL stored procedures for relational integrity, coupled with Prisma ORM migrations and Next.js frontend state machines.
@@ -99,7 +99,7 @@ All projects emphasize verifiable system execution, physical resource constraint
 | Project | Primary Domain | Core Stack | Repository / Link |
 | :--- | :--- | :--- | :--- |
 | **Homelab BaaS** | Self-Hosted 4GB Edge Developer Platform & Orchestrator | Python, FastAPI, Docker Engine API, MinIO, Linux | [github.com/sharancode3/Homelab](https://github.com/sharancode3/Homelab) |
-| **Privex AI** | Local-First Privacy-Preserving AI Platform | Python, Next.js, TypeScript, Ollama, Vector Search | [privexai.in](https://privexai.in) |
+| **Privex AI** | Local-First Privacy-Preserving AI Platform | Python, Next.js, TypeScript, Ollama, Vector Search | [privexai.in](https://www.privexai.in) |
 | **Hireflow** | Enterprise ATS, Role-Based Workflows & Resume Engine | TypeScript, Next.js, PostgreSQL, Prisma, PL/pgSQL | [github.com/sharancode3/Hireflow](https://github.com/sharancode3/Hireflow) |
 | **ThermoTrace AI** | Satellite Thermal & Geospatial Hotspot Monitoring (SIH 2026) | Python, FastAPI, TypeScript, GDAL, Docker | [github.com/sharancode3/ThermoTrace-AI](https://github.com/sharancode3/ThermoTrace-AI) |
 | **GiGly** | Worker Pay Fairness & Low-Overhead Native Telemetry | Flutter, Dart, Python, Firebase, Kotlin, C++ | [github.com/sharancode3/GiGly](https://github.com/sharancode3/GiGly) |
@@ -122,6 +122,6 @@ Developing offline-first state synchronization patterns, edge container orchestr
 
 - **GitHub:** [github.com/sharancode3](https://github.com/sharancode3)
 - **LinkedIn:** [linkedin.com/in/sharan-s7](https://www.linkedin.com/in/sharan-s7/)
-- **Instagram:** [instagram.com/sharns7_](https://www.instagram.com/sharns7_/)
+- **Instagram:** [instagram.com/sharans7_](https://www.instagram.com/sharans7_/)
 - **Email:** [sharan18x@gmail.com](mailto:sharan18x@gmail.com)
 - **Location:** Bengaluru, India
