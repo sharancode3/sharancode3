@@ -39,9 +39,9 @@ All projects emphasize verifiable system execution, physical resource constraint
 
 ---
 
-### [Privex AI](https://privexai.in)
+### [Privex AI](https://www.privexai.in)
 **Local-First Privacy-Preserving AI & On-Device Intelligence Platform**  
-*Production Deployment: [privexai.in](https://privexai.in)*
+*Production Deployment: [privexai.in](https://www.privexai.in)*
 
 - **Zero-Egress Inference Architecture:** Engineered for sensitive data environments where proprietary source code, internal notes, and confidential documents must never leave the host device.
 - **Local Embedding & Retrieval Engine:** Implements on-device semantic retrieval over local document stores, pairing lightweight vector search with local model execution via Ollama and quantized weights (Gemma / Qwen).
