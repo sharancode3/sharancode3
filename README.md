@@ -19,10 +19,10 @@ All systems prioritize verifiable execution, physical resource constraints, and 
 
 ## Verified Track Record & Recognitions
 
-- **1st Place Winner** — Build Bengaluru Hackathon (held at Microsoft Office, Track 1: Human Resources) with **WorkSense**, an enterprise workforce decision platform backed by Kahn’s DAG scheduling and 159 automated tests.
-- **1st Place Winner** — BMSCE × InternLoom Hackathon (App Development Track) with **JobSwipe**, an offline-first gesture-driven discovery app; directly earned a 3-month App Development Internship at InternLoom.
-- **SIH 2026 Internal Qualifier & Submissions** — Qualified in the top 45 teams at BMSCE for Smart India Hackathon 2026 with **ThermoTrace AI** (Problem Statement 26162 for NTRO/CPCB) and **TunnelTrace AI** (Problem Statement 26160 for NTRO).
-- **Hackathon Finalist** — *Agents That Act* by TrueFoundry × Polaris (with **RunSafe**, autonomous runbook executor), *Code Canvas* at Medicaps University (with **Hireflow**), and *Browser Battle* at BMSCE (with **Campus Insights**).
+- **1st Place Winner** — Build Bengaluru Hackathon (held at Microsoft Office, Track 1: HR) with **WorkSense**, an enterprise workforce intelligence platform.
+- **1st Place Winner** — BMSCE × InternLoom Hackathon (App Development Track) with **JobSwipe**, an offline-first mobile job discovery app.
+- **SIH 2026 Internal Qualifier** — Top 45 teams at BMSCE for Smart India Hackathon 2026 with **ThermoTrace AI** and **TunnelTrace AI** (NTRO & CPCB).
+- **Hackathon Finalist** — *Agents That Act* by TrueFoundry × Polaris (**RunSafe**), *Code Canvas* at Medicaps University (**Hireflow**), and *Browser Battle* at BMSCE (**Campus Insights**).
 
 ---
 
