@@ -1,18 +1,28 @@
 # Sharan S
 
 **Systems & Applied AI Engineer**  
-Computer Science Undergraduate, BMS College of Engineering, Bengaluru (Batch 2024–2028)
+Computer Science Undergraduate, BMS College of Engineering, Bengaluru (Batch 2024–2028 | 8.52 CGPA)  
+App Development Intern at InternLoom
 
-**Portfolio:** [portfolio-xi-five-94ye2hygga.vercel.app](https://portfolio-xi-five-94ye2hygga.vercel.app/)  
+**Interactive Portfolio:** [portfolio-xi-five-94ye2hygga.vercel.app](https://portfolio-xi-five-94ye2hygga.vercel.app/)  
 [GitHub](https://github.com/sharancode3) | [LinkedIn](https://www.linkedin.com/in/sharan-s7/) | [Instagram](https://www.instagram.com/sharans7_/) | [Email](mailto:sharan18x@gmail.com) | Bengaluru, India
 
 ---
 
 ## Engineering Overview
 
-Systems and Applied AI engineer pursuing Computer Science at BMS College of Engineering (8.52 CGPA). Focused on self-hosted edge infrastructure, local-first privacy-preserving AI runtimes, deterministic backend services, and high-performance cross-platform mobile systems. Experience includes engineering mobile feature pipelines at InternLoom, building full-stack products at Homi, and leading teams to multiple first-place hackathon wins across enterprise intelligence, fintech, and remote sensing.
+Systems and Applied AI engineer pursuing Computer Science at BMS College of Engineering. Focused on self-hosted edge infrastructure, local-first privacy-preserving AI runtimes, deterministic backend services, and high-performance cross-platform mobile systems. Experience includes engineering mobile feature pipelines and role-based access control at InternLoom, building full-stack products at Homi, and leading teams to multiple first-place hackathon finishes across enterprise decision intelligence, fintech, and remote sensing.
 
 All systems prioritize verifiable execution, physical resource constraints, and edge/on-device inference over third-party cloud API dependencies.
+
+---
+
+## Verified Track Record & Recognitions
+
+- **1st Place Winner** — Build Bengaluru Hackathon (held at Microsoft Office, Track 1: Human Resources) with **WorkSense**, an enterprise workforce decision platform backed by Kahn’s DAG scheduling and 159 automated tests.
+- **1st Place Winner** — BMSCE × InternLoom Hackathon (App Development Track) with **JobSwipe**, an offline-first gesture-driven discovery app; directly earned a 3-month App Development Internship at InternLoom.
+- **SIH 2026 Internal Qualifier & Submissions** — Qualified in the top 45 teams at BMSCE for Smart India Hackathon 2026 with **ThermoTrace AI** (Problem Statement 26162 for NTRO/CPCB) and **TunnelTrace AI** (Problem Statement 26160 for NTRO).
+- **Hackathon Finalist** — *Agents That Act* by TrueFoundry × Polaris (with **RunSafe**, autonomous runbook executor), *Code Canvas* at Medicaps University (with **Hireflow**), and *Browser Battle* at BMSCE (with **Campus Insights**).
 
 ---
 
@@ -106,25 +116,18 @@ All systems prioritize verifiable execution, physical resource constraints, and 
 
 ---
 
-## Technical Projects Index
+## Other Systems & Hackathon Builds
 
-| Project | Primary Domain | Core Stack | Repository / Live Link |
+| Project | Primary Domain | Core Stack | Live Demo / Repository |
 | :--- | :--- | :--- | :--- |
-| **Homelab BaaS** | Self-Hosted 4GB Edge Developer Platform & Orchestrator | Python, FastAPI, Docker Engine API, MinIO, Linux | [github.com/sharancode3/Homelab](https://github.com/sharancode3/Homelab) |
-| **WorkSense** | Workforce Decision Intelligence (1st Place Build Bengaluru) | React, TypeScript, FastAPI, Python, Supabase | [work-sense-tau.vercel.app](https://work-sense-tau.vercel.app/) / [Repo](https://github.com/sharancode3/WorkSense) |
-| **Privex AI** | Local-First Privacy-Preserving AI Platform | Python, Next.js, TypeScript, Ollama, Vector Search | [privexai.in](https://www.privexai.in) |
-| **ThermoTrace AI** | Satellite Thermal & Geospatial Hotspot Monitoring (SIH 2026) | Python, FastAPI, TypeScript, GDAL, Docker | [thermo-trace-ai.vercel.app](https://thermo-trace-ai.vercel.app/) / [Repo](https://github.com/sharancode3/ThermoTrace-AI) |
-| **Hireflow** | Enterprise ATS, Role-Based Workflows & Resume Engine | TypeScript, React 19, PostgreSQL, Prisma, PL/pgSQL | [hireflow-frontend-ten.vercel.app](https://hireflow-frontend-ten.vercel.app/) / [Repo](https://github.com/sharancode3/Hireflow) |
-| **Hydra Leaf** | Hardware Sensor Fusion Android Physics Game Engine | Kotlin, Java, Android Native Sensor API | [Source](https://github.com/sharancode3/Hydra-leaf-Source-code) / [APK](https://github.com/sharancode3/Hydra-leaf-apk/releases/latest) |
-| **Finora** | AI Finance Controller & 3-Way Reconciliation | TypeScript, Python, Next.js, Ollama, Firestore | [github.com/sharancode3/Finora](https://github.com/sharancode3/Finora) |
-| **TunnelTrace AI** | IPsec VPN Security Intelligence Platform (SIH 2026 / NTRO) | Python, FastAPI, IPsec Telemetry, Next.js | [tunneltraceai-7e6g.vercel.app](https://tunneltraceai-7e6g.vercel.app/) / [Repo](https://github.com/sharancode3/TunnelTrace-AI) |
-| **RunSafe** | Verified Autonomous Runbook Executor (Agents That Act Finalist) | TrueForge, TypeScript, SQLite, Docker, Zod | [github.com/sharancode3/RunSafe](https://github.com/sharancode3/RunSafe) |
-| **GiGly** | Worker Pay Fairness & Low-Overhead Native Telemetry | Flutter, Dart, Python, Firebase, Kotlin, C++ | [github.com/sharancode3/GiGly](https://github.com/sharancode3/GiGly) |
-| **JobSwipe** | Mobile Internship Discovery Client (1st Place Hackathon Win) | Flutter, Dart, Riverpod, Supabase, Android SDK | [github.com/sharancode3/JobSwipe](https://github.com/sharancode3/JobSwipe) |
-| **Skill-Lens AI** | Adaptive Multi-Turn AI Technical Interview Platform | JavaScript, Node.js, Google Gemini API, Python | [github.com/sharancode3/Skill-lens-AI](https://github.com/sharancode3/Skill-lens-AI) |
-| **CHEAT-LABZ** | Browser Gaming Platform with Canvas Physics & Socket.IO | JavaScript, HTML5 Canvas, Socket.IO, CSS3 | [sharancode3.github.io/CHEAT-LABZ](https://sharancode3.github.io/CHEAT-LABZ/) / [Repo](https://github.com/sharancode3/CHEAT-LABZ) |
-| **Campus Insights** | WebGL Three.js University Portal (Browser Battle Finalist) | Next.js, TypeScript, Three.js, WebGL Shaders | [sharancode3.github.io/Campus-Insights](https://sharancode3.github.io/Campus-Insights/) |
-| **Hyper-Pong** | Canvas Collision Loop & Dynamic Game Physics Engine | JavaScript, HTML5 Canvas, CSS3 | [github.com/sharancode3/Hyper-Pong](https://github.com/sharancode3/Hyper-Pong) |
+| **TunnelTrace AI** | IPsec VPN Security Intelligence Platform (SIH 2026 / NTRO) | Python, FastAPI, IPsec Telemetry, Next.js | [Live Demo](https://tunneltraceai-7e6g.vercel.app/) / [Code](https://github.com/sharancode3/TunnelTrace-AI) |
+| **RunSafe** | Verified Autonomous Runbook Executor (Agents That Act Finalist) | TrueForge, TypeScript, SQLite, Docker, Zod | [Repository](https://github.com/sharancode3/RunSafe) |
+| **GiGly** | Worker Pay Fairness & Low-Overhead Native Telemetry | Flutter, Dart, Python, Firebase, Kotlin, C++ | [Repository](https://github.com/sharancode3/GiGly) |
+| **JobSwipe** | Mobile Internship Discovery Client (1st Place Hackathon Win) | Flutter, Dart, Riverpod, Supabase, Android SDK | [Repository](https://github.com/sharancode3/JobSwipe) |
+| **Skill-Lens AI** | Adaptive Multi-Turn AI Technical Interview Platform | JavaScript, Node.js, Google Gemini API, Python | [Repository](https://github.com/sharancode3/Skill-lens-AI) |
+| **CHEAT-LABZ** | Browser Gaming Platform with Canvas Physics & Socket.IO | JavaScript, HTML5 Canvas, Socket.IO, CSS3 | [Live Arcade](https://sharancode3.github.io/CHEAT-LABZ/) / [Code](https://github.com/sharancode3/CHEAT-LABZ) |
+| **Campus Insights** | WebGL Three.js University Portal (Browser Battle Finalist) | Next.js, TypeScript, Three.js, WebGL Shaders | [Live Portal](https://sharancode3.github.io/Campus-Insights/) |
+| **Hyper-Pong** | Canvas Collision Loop & Dynamic Game Physics Engine | JavaScript, HTML5 Canvas, CSS3 | [Repository](https://github.com/sharancode3/Hyper-Pong) |
 
 ---
 
