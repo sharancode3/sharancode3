@@ -11,7 +11,7 @@ Former App Development Intern at InternLoom (Jul–Sep 2026)
 
 ## Engineering Overview
 
-Systems and Applied AI engineer pursuing Computer Science at BMS College of Engineering. Focused on self-hosted edge infrastructure, local-first privacy-preserving AI runtimes, deterministic backend services, and high-performance cross-platform mobile systems. Experience includes engineering mobile feature pipelines and role-based access control at InternLoom, building full-stack products at Homi, and leading teams to multiple first-place hackathon finishes across enterprise decision intelligence, fintech, and remote sensing.
+Systems and Applied AI engineer pursuing Computer Science at BMS College of Engineering. Focused on self-hosted edge infrastructure, local-first privacy-preserving AI runtimes, deterministic backend services, and high-performance cross-platform mobile systems. Experience includes engineering mobile feature pipelines and role-based access control at InternLoom, alongside leading teams to multiple first-place hackathon finishes across enterprise decision intelligence, fintech, and remote sensing.
 
 All systems prioritize verifiable execution, physical resource constraints, and edge/on-device inference over third-party cloud API dependencies.
 
