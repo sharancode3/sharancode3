@@ -26,14 +26,12 @@ All systems prioritize verifiable execution, physical resource constraints, and 
 
 ---
 
-## Technical Skills
+## Core Technical Stack
 
 - **Languages:** Python, TypeScript, JavaScript, Dart, Kotlin, C, C++, SQL (PL/pgSQL), Bash
-- **Edge & Infrastructure:** Docker Engine API, Linux Server Administration (Ubuntu), Microservices Orchestration, Relational Schema Architecture, MinIO Object Storage
-- **Applied AI & Systems:** Local LLM Inference via Ollama (Gemma 3, Qwen 2.5), Structured Output Enforcement (JSON Schema Mode), Function Calling, Dual-Pass Verification Loops, Semantic Embedding Pipelines, GDAL Geospatial Telemetry
-- **Mobile & Native Systems:** Flutter, Riverpod, Isar Offline Storage, Android SDK, Native Platform Channels (C++/Kotlin), Gyroscope Sensor Fusion
-- **Full-Stack & Databases:** Next.js, FastAPI, Node.js, Express.js, PostgreSQL, PL/pgSQL Stored Procedures, Prisma ORM, Supabase, Cloud Firestore
-- **DevOps & Tooling:** Docker, Docker Compose, Git, GitHub Actions, Vercel, Netlify
+- **Frameworks & Runtimes:** FastAPI, React, Next.js, Node.js, Express.js, Flutter, Android SDK
+- **Applied AI & Systems:** Ollama (Gemma 3, Qwen 2.5), Structured Output (JSON Schema Mode), Tool/Function Calling, On-Device Whisper (ONNX WASM), GDAL
+- **Databases & Infrastructure:** PostgreSQL, Supabase, SQLite (WAL Mode), Docker, MinIO, Linux (Ubuntu Server)
 
 ---
 
@@ -47,18 +45,6 @@ All systems prioritize verifiable execution, physical resource constraints, and 
 - **Automated Container Provisioning:** Built a FastAPI management daemon that communicates directly with the Docker Engine API to provision isolated PostgreSQL database instances and MinIO S3-compatible storage buckets per project.
 - **Authorization & Project Scoping:** Implements project-scoped API key generation, credential rotation, and role-based endpoint access control without relying on external cloud authentication vendors.
 - **Stack:** Python, FastAPI, Docker Engine API, PostgreSQL, MinIO, Linux, Bash
-
----
-
-### [WorkSense](https://github.com/sharancode3/WorkSense)
-**AI-Assisted Enterprise Workforce Intelligence & Decision Platform**  
-*1st Place Winner at Build Bengaluru Hackathon (held at Microsoft Office) | Live Deployment: [work-sense-tau.vercel.app](https://work-sense-tau.vercel.app/)*
-
-- **Continuous Decision Intelligence:** Connects hiring evidence directly to organizational capability graphs, eliminating disconnected data silos between recruitment and internal talent management.
-- **Deterministic DAG Scheduling:** Formulated a Kahn’s topological sort DAG scheduler for automated, dependency-aware employee onboarding task progression.
-- **Non-Surveillance Attrition Modeling:** Implemented an ethical attrition risk assessment framework based on workload telemetry and sentiment patterns rather than invasive keystroke tracking.
-- **Validation:** 159 automated tests passing across state machines and service endpoints.
-- **Stack:** React, TypeScript, FastAPI, Python, Supabase, DAG Scheduling
 
 ---
 
@@ -116,15 +102,16 @@ All systems prioritize verifiable execution, physical resource constraints, and 
 
 ---
 
-## Other Systems & Hackathon Builds
+## Systems Catalog & Hackathon Builds
 
 | Project | Primary Domain | Core Stack | Live Demo / Repository |
 | :--- | :--- | :--- | :--- |
+| **WorkSense** | Workforce Decision Intelligence (1st Place Build Bengaluru) | React, TypeScript, FastAPI, Python, Supabase | [Live Demo](https://work-sense-tau.vercel.app/) / [Code](https://github.com/sharancode3/WorkSense) |
 | **TunnelTrace AI** | IPsec VPN Security Intelligence Platform (SIH 2026 / NTRO) | Python, FastAPI, IPsec Telemetry, Next.js | [Live Demo](https://tunneltraceai-7e6g.vercel.app/) / [Code](https://github.com/sharancode3/TunnelTrace-AI) |
 | **RunSafe** | Verified Autonomous Runbook Executor (Agents That Act Finalist) | TrueForge, TypeScript, SQLite, Docker, Zod | [Repository](https://github.com/sharancode3/RunSafe) |
+| **Skill Labs AI** | Adaptive Multi-Turn AI Technical Interview Platform | JavaScript, Node.js, Express, Gemini & Qwen | [Repository](https://github.com/sharancode3/Skill-lens-AI) |
 | **GiGly** | Worker Pay Fairness & Low-Overhead Native Telemetry | Flutter, Dart, Python, Firebase, Kotlin, C++ | [Repository](https://github.com/sharancode3/GiGly) |
 | **JobSwipe** | Mobile Internship Discovery Client (1st Place Hackathon Win) | Flutter, Dart, Riverpod, Supabase, Android SDK | [Repository](https://github.com/sharancode3/JobSwipe) |
-| **Skill-Lens AI** | Adaptive Multi-Turn AI Technical Interview Platform | JavaScript, Node.js, Google Gemini API, Python | [Repository](https://github.com/sharancode3/Skill-lens-AI) |
 | **CHEAT-LABZ** | Browser Gaming Platform with Canvas Physics & Socket.IO | JavaScript, HTML5 Canvas, Socket.IO, CSS3 | [Live Arcade](https://sharancode3.github.io/CHEAT-LABZ/) / [Code](https://github.com/sharancode3/CHEAT-LABZ) |
 | **Campus Insights** | WebGL Three.js University Portal (Browser Battle Finalist) | Next.js, TypeScript, Three.js, WebGL Shaders | [Live Portal](https://sharancode3.github.io/Campus-Insights/) |
 | **Hyper-Pong** | Canvas Collision Loop & Dynamic Game Physics Engine | JavaScript, HTML5 Canvas, CSS3 | [Repository](https://github.com/sharancode3/Hyper-Pong) |
