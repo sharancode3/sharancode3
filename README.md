@@ -2,7 +2,7 @@
 
 **Systems & Applied AI Engineer**  
 Computer Science Undergraduate, BMS College of Engineering, Bengaluru (Batch 2024–2028)  
-App Development Intern at InternLoom
+Former App Development Intern at InternLoom (Jul–Sep 2026)
 
 **Interactive Portfolio:** [portfolio-xi-five-94ye2hygga.vercel.app](https://portfolio-xi-five-94ye2hygga.vercel.app/)  
 [GitHub](https://github.com/sharancode3) | [LinkedIn](https://www.linkedin.com/in/sharan-s7/) | [Instagram](https://www.instagram.com/sharans7_/) | [Email](mailto:sharan18x@gmail.com) | Bengaluru, India
