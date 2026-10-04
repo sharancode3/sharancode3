@@ -1,7 +1,7 @@
 # Sharan S
 
 **Systems & Applied AI Engineer**  
-Computer Science Undergraduate, BMS College of Engineering, Bengaluru (Batch 2024–2028 | 8.52 CGPA)  
+Computer Science Undergraduate, BMS College of Engineering, Bengaluru (Batch 2024–2028)  
 App Development Intern at InternLoom
 
 **Interactive Portfolio:** [portfolio-xi-five-94ye2hygga.vercel.app](https://portfolio-xi-five-94ye2hygga.vercel.app/)  
